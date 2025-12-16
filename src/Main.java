@@ -11,7 +11,7 @@ public class Main {
 
         while (running) {
             System.out.println("\n====================================");
-            System.out.println("      MACHINE À CAFÉ CONNECTÉE ☕");
+            System.out.println("      MACHINE À CAFÉ CONNECTÉE ");
             System.out.println("====================================");
             System.out.println("1 - Utilisateur");
             System.out.println("2 - Technicien");
